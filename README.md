@@ -5,7 +5,8 @@
 + [Multi-project with Gradle](https://docs.gradle.org/current/userguide/multi_project_builds.html)
 ## Practice
 
-In this task you are going to create the same application as in Maven module, but with Gradle build tool.
+In this task you are going to create the same application as in Maven module,
+but with Gradle build tool.
 
 ### Task 1
 1. After Gradle installation make sure that you have 'gradle' package with wrapper inside;
